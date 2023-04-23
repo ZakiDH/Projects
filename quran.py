@@ -1,3 +1,4 @@
+#See https://medium.com/@zakariakejouan/how-to-scrape-arabic-verses-from-quran-website-using-python-2071f5474082 for the blog post with explenation
 import re
 import requests
 from bs4 import BeautifulSoup
